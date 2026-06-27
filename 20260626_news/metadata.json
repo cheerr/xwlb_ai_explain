@@ -1,0 +1,166 @@
+{
+  "date": "20260626",
+  "title": "《新闻联播》 20260626 1900",
+  "channel": "CCTV-13高清",
+  "duration_seconds": "1801.80",
+  "total_segments": 15,
+  "segments": [
+    {
+      "title": "[视频]习近平会见柬埔寨人民党主席、参议院主席洪森",
+      "start_ms": 86120,
+      "end_ms": 367240,
+      "duration_seconds": 281.12,
+      "video_slice": "20260626_news/segments/01_[视频]习近平会见柬埔寨人民党主席、参议院主席洪森.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEtqMwBVyENaFQXg4LkPJO260626.shtml",
+      "article_word_count": 1110
+    },
+    {
+      "title": "[视频]习近平会见孟加拉国总理",
+      "start_ms": 368720,
+      "end_ms": 618040,
+      "duration_seconds": 249.32,
+      "video_slice": "20260626_news/segments/02_[视频]习近平会见孟加拉国总理.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEQsoUlsFJhrBwrcdQQBZ3260626.shtml",
+      "article_word_count": 962
+    },
+    {
+      "title": "[视频]习近平签署国家主席令",
+      "start_ms": 619280,
+      "end_ms": 694080,
+      "duration_seconds": 74.8,
+      "video_slice": "20260626_news/segments/03_[视频]习近平签署国家主席令.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEY0DThpVaNmkG17kkrvIw260626.shtml",
+      "article_word_count": 316
+    },
+    {
+      "title": "[视频]习近平就委内瑞拉发生强烈地震向委内瑞拉代总统致慰问电",
+      "start_ms": 695640,
+      "end_ms": 737880,
+      "duration_seconds": 42.24,
+      "video_slice": "20260626_news/segments/04_[视频]习近平就委内瑞拉发生强烈地震向委内瑞拉代总统致慰问电.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEDdL2dswGXGwwUdsZCbHq260626.shtml",
+      "article_word_count": 170
+    },
+    {
+      "title": "[视频]李强会见柬埔寨人民党主席、参议院主席洪森",
+      "start_ms": 739480,
+      "end_ms": 797200,
+      "duration_seconds": 57.72,
+      "video_slice": "20260626_news/segments/05_[视频]李强会见柬埔寨人民党主席、参议院主席洪森.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDE5wbCaWX1q51xHiGIElwI260626.shtml",
+      "article_word_count": 284
+    },
+    {
+      "title": "[视频]十四届全国人大常委会第二十三次会议在京闭幕",
+      "start_ms": 798440,
+      "end_ms": 955840,
+      "duration_seconds": 157.4,
+      "video_slice": "20260626_news/segments/06_[视频]十四届全国人大常委会第二十三次会议在京闭幕.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEOheNiXjwOYdoIObOZvm4260626.shtml",
+      "article_word_count": 746
+    },
+    {
+      "title": "[视频]赵乐际会见孟加拉国总理",
+      "start_ms": 957080,
+      "end_ms": 1022120,
+      "duration_seconds": 65.04,
+      "video_slice": "20260626_news/segments/07_[视频]赵乐际会见孟加拉国总理.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEg6QoJYxPbeSKokgj9XCl260626.shtml",
+      "article_word_count": 330
+    },
+    {
+      "title": "[视频]丁薛祥在新疆调研",
+      "start_ms": 1022880,
+      "end_ms": 1185480,
+      "duration_seconds": 162.6,
+      "video_slice": "20260626_news/segments/08_[视频]丁薛祥在新疆调研.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEOUloIqJmO17eASUDEdz5260626.shtml",
+      "article_word_count": 770
+    },
+    {
+      "title": "[视频]红色旅游升温 汇聚奋进力量",
+      "start_ms": 1186240,
+      "end_ms": 1286240,
+      "duration_seconds": 100.0,
+      "video_slice": "20260626_news/segments/09_[视频]红色旅游升温汇聚奋进力量.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEEc1WnjmbHGwe2hLMxwhL260626.shtml",
+      "article_word_count": 460
+    },
+    {
+      "title": "[视频]【“十五五”开好局起好步】到2030年我国将初步建成新型能源体系",
+      "start_ms": 1286520,
+      "end_ms": 1348640,
+      "duration_seconds": 62.12,
+      "video_slice": "20260626_news/segments/10_[视频]【“十五五”开好局起好步】到2030年我国将初步建成新型能源体系.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEzet2k1sG2kAZbOzbBXrm260626.shtml",
+      "article_word_count": 307
+    },
+    {
+      "title": "[视频]国际禁毒日：各地开展形式多样的禁毒主题宣传活动",
+      "start_ms": 1349880,
+      "end_ms": 1407120,
+      "duration_seconds": 57.24,
+      "video_slice": "20260626_news/segments/11_[视频]国际禁毒日：各地开展形式多样的禁毒主题宣传活动.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEJPuhrvFMYhfD1LXaH8Cn260626.shtml",
+      "article_word_count": 274
+    },
+    {
+      "title": "[视频]国内联播快讯",
+      "start_ms": 1408000,
+      "end_ms": 1569560,
+      "duration_seconds": 161.56,
+      "video_slice": "20260626_news/segments/12_[视频]国内联播快讯.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEmAeUo2rjG53EtoGFyp1W260626.shtml",
+      "article_word_count": 886
+    },
+    {
+      "title": "[视频]委内瑞拉强震遇难人数升至235人 救援持续进行",
+      "start_ms": 1576120,
+      "end_ms": 1662520,
+      "duration_seconds": 86.4,
+      "video_slice": "20260626_news/segments/13_[视频]委内瑞拉强震遇难人数升至235人救援持续进行.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEc0c3YKN2mKyHcWrVfQnK260626.shtml",
+      "article_word_count": 376
+    },
+    {
+      "title": "[视频]伊朗和阿曼两国外长通话讨论霍尔木兹海峡问题",
+      "start_ms": 1663240,
+      "end_ms": 1730080,
+      "duration_seconds": 66.84,
+      "video_slice": "20260626_news/segments/14_[视频]伊朗和阿曼两国外长通话讨论霍尔木兹海峡问题.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEU9WumuP25pnvb7GRjNXA260626.shtml",
+      "article_word_count": 349
+    },
+    {
+      "title": "[视频]国际联播快讯",
+      "start_ms": 1730840,
+      "end_ms": 1781360,
+      "duration_seconds": 50.52,
+      "video_slice": "20260626_news/segments/15_[视频]国际联播快讯.mp4",
+      "has_manuscript": true,
+      "article_url": "https://tv.cctv.com/2026/06/26/VIDEDjK0fMAQhkCfEMl388tQ260626.shtml",
+      "article_word_count": 260
+    }
+  ],
+  "files": {
+    "full_video": "20260626_news/full.mp4",
+    "daily_manuscript": "20260626_news/daily_manuscript.md",
+    "segments_dir": "20260626_news/segments",
+    "manuscripts_dir": "20260626_news/manuscripts"
+  },
+  "download_log": "VID: VIDEwNDubTWDo59sebz83oRM260626\nGUID: 472f3dcb6bcd418cae3a93a90a7fab67\n标题: 《新闻联播》 20260626 1900\n时长: 1801.80秒\n视频文件: 20260626_news/full.mp4 (426.0 MB)\n文字稿: 15条\n总字数: 7600\n切片: 15/15 段成功\n口播稿件: manuscripts/ 目录\n汇总文档: README.md"
+}
